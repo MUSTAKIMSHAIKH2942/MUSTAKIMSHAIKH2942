@@ -53,5 +53,30 @@ Full Stack Developer | Machine Learning Enthusiast | AI Innovator
 ---
 
 **Feel free to explore my repositories, contribute to projects, or reach out to me for collaboration opportunities!**
+[Title: Languages and Tools]
 
-![Animated Coding GIF](https://user-images.githubusercontent.com/XXXXXX/animated-coding.gif)
+Languages:
+[Python Icon] [Go Icon] [JavaScript Icon] [TypeScript Icon] [Solidity Icon]
+
+Best Python Frameworks:
+[Django Icon] [FastAPI Icon] [Flask Icon] [Keras Icon] [TensorFlow Icon] [Selenium Icon] [Playwright Icon]
+
+Best Go Frameworks:
+[GIN Icon]
+
+Best JS/TS Frontend Frameworks:
+[React Icon] [Vue Icon] [Angular Icon] [Next.js Icon] [Nuxt.js Icon] [Three.js Icon] [MUI Icon]
+
+Best JS/TS Backend Frameworks:
+[Express Icon] [Nest Icon]
+
+Data Manipulation & Visualization:
+[Conda Icon] [Jupyter Icon] [Spark Icon] [MySQL Icon] [Postgres Icon] [MongoDB Icon] [Matplotlib Icon]
+
+Environments, Testing, Other:
+[node.js Icon] [Git Icon] [Docker Icon] [Jira Icon] [OpenAPI Icon] [Postman Icon] [HardHat Icon]
+
+OS:
+[Linux Icon] [Ubuntu Icon]
+
+[Contact Me: Social Media Icons]
