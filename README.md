@@ -25,7 +25,7 @@ Full Stack Developer | Machine Learning Enthusiast | AI Innovator
 
 ### 2. AI Chatbot for Customer Support
 - Created an AI-driven chatbot to assist customers in real-time, improving response times by 40%.
-- [View Project](https://github.com/MUSTAKIMSHAIKH2942/AI-Chatbot)
+- [View Project](https://github.com/MUSTAKIMSHAIKH2942/Chat-bot-Sun-C)
 
 ---
 
