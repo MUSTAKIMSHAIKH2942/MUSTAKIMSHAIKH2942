@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Mustakim Shaikh
 
-Full Stack Developer | Machine Learning Enthusiast | AI Innovator
+Full Stack Developer | Machine Learning Enthusiast | AI Innovator 
 
 ---
 
