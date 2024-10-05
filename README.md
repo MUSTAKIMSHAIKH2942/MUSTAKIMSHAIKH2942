@@ -1,45 +1,48 @@
-# 👋 Hi, I’m Mustakim Shaikh
+<h1 align="center">Hi 👋, I'm Mustakim Shaikh</h1>
+<h3 align="center">Software Developer | Data Science & Machine Learning Enthusiast | Passionate about Open Source & AI From India</h3>
 
-Full Stack Developer | Machine Learning Enthusiast | AI Innovator 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mustakimshaikh2942&label=Profile%20views&color=0e75b6&style=flat" alt="mustakimshaikh2942" /> </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mustakimshaikh2942" alt="mustakimshaikh2942" /></a> </p>
 
-![AI Innovation](https://via.placeholder.com/600x200?text=AI+Innovation) <!-- Replace with your image link -->
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌟 **Specialized in**: Large Language Models (LLMs), Natural Language Processing (NLP), and Full Stack Development.
-- 🌱 **Currently Learning**: Advanced Machine Learning algorithms and AI-driven solutions.
-- 👀 **Interested in**: Building AI models that understand and generate human language.
-- 💞️ **Looking to collaborate on**: Cutting-edge projects in AI, particularly those involving NLP and LLMs.
+- 🔭 I’m currently working on [Base-of-Start-for-ML: Exploratory Data Analysis (EDA) Pipeline](https://github.com/MUSTAKIMSHAIKH2942/Exploratory-Insight-Generator-)
 
----
+- 🌱 I’m currently learning **Advanced NLP techniques (Hugging Face transformers), ZenML for ML pipelines ,MLflow for experiment tracking and model deployment ,Deep learning optimization techniques (TensorFlow & PyTorch) , Git Airflow**
 
-## 🛠️ Technologies & Tools
-![Tech Stack](https://via.placeholder.com/600x100?text=Tech+Stack) <!-- Replace with your image link -->
-- **Languages**: Python, JavaScript, SQL, HTML, CSS
-- **Frameworks**: TensorFlow, PyTorch, React, Node.js
-- **Tools**: Git, Docker, Kubernetes
+- 👯 I’m looking to collaborate on [AI Chatbot for Customer Support](https://github.com/MUSTAKIMSHAIKH2942/Chat-bot-Sun-C)
 
----
+- 🤝 I’m looking for help with [Retrieval-Augmented Generation (RAG) for Industry Insights](https://github.com/MUSTAKIMSHAIKH2942/Retrieval-Augmented-Generation)
 
-## 📈 Projects & Contributions
-### 1. NLP Sentiment Analysis Model
-- Developed a sentiment analysis model using [Hugging Face's Transformers](https://github.com/huggingface/transformers) to classify tweets as positive, negative, or neutral.
-- [View Project](https://github.com/MUSTAKIMSHAIKH2942/Sentiment-Analysis-Model)
+- 💬 Ask me about **Python,SQL,ML Model**
 
-![Sentiment Analysis](https://via.placeholder.com/600x200?text=Sentiment+Analysis) <!-- Replace with your image link -->
+- 📫 How to reach me **Shaikhmustaim2942@gmail.com**
 
-### 2. AI Chatbot for Customer Support
-- Created an AI-driven chatbot to assist customers in real-time, improving response times by 40%.
-- [View Project](https://github.com/MUSTAKIMSHAIKH2942/Chat-bot-Sun-C)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1F0Lql_4F3DcUAxnH50WMEqFm7SwmQLOTUtIq8tMai48/edit?usp=sharing](https://docs.google.com/document/d/1F0Lql_4F3DcUAxnH50WMEqFm7SwmQLOTUtIq8tMai48/edit?usp=sharing)
 
-![AI Chatbot](https://via.placeholder.com/600x200?text=AI+Chatbot) <!-- Replace with your image link -->
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/mustakim_shaikh_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mustakim_shaikh_01" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohd-mustakim-shaikh-55042023a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohd-mustakim-shaikh-55042023a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
+<a href="https://kaggle.com/mustakimshaikh1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mustakimshaikh1" height="30" width="40" /></a>
+<a href="https://medium.com/@shaikhmustakim2942" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shaikhmustakim2942" height="30" width="40" /></a>
+</p>
 
-## 🌟 Achievements & Highlights
-- [Add your achievements or highlights here, like awards, recognitions, etc.]
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mustakimshaikh2942&show_icons=true&locale=en&layout=compact" alt="mustakimshaikh2942" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mustakimshaikh2942&show_icons=true&locale=en" alt="mustakimshaikh2942" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mustakimshaikh2942&" alt="mustakimshaikh2942" /></p>
+
+
 
 ## 📫 Connect with Me
 - 📧 **Email**: shaikhmustakim2942@gmail.com
