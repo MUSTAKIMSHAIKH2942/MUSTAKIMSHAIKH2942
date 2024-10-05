@@ -79,3 +79,10 @@ I enjoy tackling complex problems, whether it's optimizing algorithms for machin
   <a href="https://www.tensorflow.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
 </p>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mustakimshaikh2942&show_icons=true&locale=en&layout=compact" alt="mustakimshaikh2942" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mustakimshaikh2942&show_icons=true&locale=en" alt="mustakimshaikh2942" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mustakimshaikh2942&" alt="mustakimshaikh2942" /></p>
