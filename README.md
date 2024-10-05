@@ -14,8 +14,30 @@
 
 ---
 
+### 💡 About Me
+I'm a passionate software developer with a strong focus on machine learning and data science. With over 1.7 years of experience in various technologies, I have developed a solid foundation in both back-end and front-end development. I thrive in collaborative environments where innovation and creativity are encouraged.
+
+I enjoy tackling complex problems, whether it's optimizing algorithms for machine learning models or creating seamless user experiences in web applications. I am particularly interested in the intersection of AI and real-world applications, aiming to develop intelligent solutions that can make a difference.
+
+### 📈 Projects & Contributions
+- **[House Price Prediction](https://github.com/MUSTAKIMSHAIKH2942/House-Price-Prediction)**: Developed a machine learning model to predict house prices based on various features using regression techniques.
+- **[HRMS Backend in Django](https://github.com/MUSTAKIMSHAIKH2942/HRMS)**: Created a comprehensive backend system for Human Resource Management, implementing features like attendance tracking and leave management.
+- **[Real-Time Task Manager](https://github.com/MUSTAKIMSHAIKH2942/Task-Manager)**: Designed a UI-based task management application using Django and React, focusing on user roles and task completion metrics.
+
+---
+
+### 🧠 Skills
+- **Programming Languages**: Python, JavaScript, C++, SQL
+- **Frameworks**: Django, Flask, React, Node.js
+- **Machine Learning**: Scikit-learn, TensorFlow, PyTorch, Pandas
+- **Databases**: PostgreSQL, MongoDB, SQLite
+- **DevOps Tools**: Docker, Git, Jenkins, AWS, GCP
+- **Others**: REST APIs, Microservices, Data Visualization (Chart.js), CI/CD Pipelines
+
+---
+
 ### 📫 Let's Connect
-- 💬 **Ask Me About**: Python, SQL, ML Models
+- 💬 **Ask Me About**: Python, SQL, ML Models, Open Source Contributions, Development Best Practices
 - 📧 **Email**: [shaikhmustakim2942@gmail.com](mailto:shaikhmustakim2942@gmail.com)
 - 📄 **My Experience**: [Resume](https://docs.google.com/document/d/1F0Lql_4F3DcUAxnH50WMEqFm7SwmQLOTUtIq8tMai48/edit?usp=sharing)
 
@@ -50,13 +72,9 @@
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/></a>
   <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
-  <a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/></a>
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></a>
-  <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
+  <a href="https://opencv.org/" target="_blank"><img src="https://raw.githubusercontent.com/opencv/opencv/master/doc/pics/logos/opencv_logo_black.png" alt="OpenCV" width="40" height="40"/></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
+  <a href="https://www.r-project.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/></a>
   <a href="https://scikit-learn.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="Scikit-Learn" width="40" height="40"/></a>
   <a href="https://www.tensorflow.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
