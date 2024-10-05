@@ -14,6 +14,12 @@
 
 ---
 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mustakimshaikh2942&show_icons=true&locale=en&layout=compact" alt="mustakimshaikh2942" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mustakimshaikh2942&show_icons=true&locale=en" alt="mustakimshaikh2942" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mustakimshaikh2942&" alt="mustakimshaikh2942" /></p>
 ### 💡 About Me
 I'm a passionate software developer with a strong focus on machine learning and data science. With over 1.7 years of experience in various technologies, I have developed a solid foundation in both back-end and front-end development. I thrive in collaborative environments where innovation and creativity are encouraged.
 
@@ -81,8 +87,4 @@ I enjoy tackling complex problems, whether it's optimizing algorithms for machin
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mustakimshaikh2942&show_icons=true&locale=en&layout=compact" alt="mustakimshaikh2942" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mustakimshaikh2942&show_icons=true&locale=en" alt="mustakimshaikh2942" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mustakimshaikh2942&" alt="mustakimshaikh2942" /></p>
