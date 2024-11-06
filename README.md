@@ -45,7 +45,7 @@ I enjoy tackling complex problems, whether it's optimizing algorithms for machin
 ### 📫 Let's Connect
 - 💬 **Ask Me About**: Python, SQL, ML Models, Open Source Contributions, Development Best Practices
 - 📧 **Email**: [shaikhmustakim2942@gmail.com](mailto:shaikhmustakim2942@gmail.com)
-- 📄 **My Experience**: [Resume](https://docs.google.com/document/d/1F0Lql_4F3DcUAxnH50WMEqFm7SwmQLOTUtIq8tMai48/edit?usp=sharing)
+- 📄 **My Experience**: [Resume](https://docs.google.com/document/d/1uJUTDRsyH907ky7HjOxqon8lF5RzSIcWypluxKXRWT0/edit?usp=sharing)
 
 ---
 
