@@ -27,7 +27,6 @@ I enjoy tackling complex problems, whether it's optimizing algorithms for machin
 
 ### 📈 Projects & Contributions
 - **[House Price Prediction](https://github.com/MUSTAKIMSHAIKH2942/House-Price-Prediction)**: Developed a machine learning model to predict house prices based on various features using regression techniques.
-- **[HRMS Backend in Django](https://github.com/MUSTAKIMSHAIKH2942/HRMS)**: Created a comprehensive backend system for Human Resource Management, implementing features like attendance tracking and leave management.
 - **[Real-Time Task Manager](https://github.com/MUSTAKIMSHAIKH2942/Task-Manager)**: Designed a UI-based task management application using Django and React, focusing on user roles and task completion metrics.
 
 ---
